@@ -11,6 +11,8 @@ black = "^22.3.0"
 flake8 = "^4.0.1"
 pre-commit = "^2.19.0"
 SQLAlchemy = "^1.4.39"
+Faker = "^13.14.0"
+pytest = "^7.1.2"
 
 [tool.poetry.dev-dependencies]
 
